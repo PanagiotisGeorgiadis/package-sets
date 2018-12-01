@@ -10,7 +10,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/slamdata/purescript-aff.git",
-    "version": "v4.1.1"
+    "version": "v5.0.2"
   },
   "aff-coroutines": {
     "dependencies": [
